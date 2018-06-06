@@ -12,3 +12,5 @@ class Content extends Component {
 }
 
 export default Content;
+
+{/* <span>{data.indexOf(data.color)}</span> */}
