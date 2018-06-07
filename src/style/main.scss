@@ -97,15 +97,17 @@
 
     button {
         justify-self: center;
-        transform: translateY(50%);
+        
     }
     &_generate {
         background-color: #00CB79;
+        transform: translateY(-300px);
         @include button;
     }
 
     &_clear {
         background-color: #45b0e5;
+        transform: translateY(50%);
         @include button;
    
     }
